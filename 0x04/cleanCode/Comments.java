@@ -5,7 +5,7 @@ public class Comments {
     }
 
     /**
-     * <p>Este método publica resultados com base na data.</p>
+     * <p>este método publica resultados com base na data.</p>
      *
      * @param data data a partir da qual os resultados devem ser publicados
      * @return Lista de entidades de resultado
